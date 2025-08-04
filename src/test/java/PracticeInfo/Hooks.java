@@ -14,8 +14,14 @@ public class Hooks extends MyPractice {
 		System.out.println("launch Browser");
 		lauchBrowser();
 		System.out.println("A");
+<<<<<<< HEAD
 		System.out.println("A");
 		System.out.println("A");
+=======
+		System.out.print("B");
+		System.out.print("C");
+		//System.out.print("C");
+>>>>>>> main
 	}
 	
 		@After
