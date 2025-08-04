@@ -16,6 +16,7 @@ public class Hooks extends MyPractice {
 		System.out.println("A");
 		System.out.print("B");
 		System.out.print("C");
+		//System.out.print("C");
 	}
 	
 		@After
