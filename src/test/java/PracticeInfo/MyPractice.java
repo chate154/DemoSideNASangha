@@ -589,6 +589,7 @@ public static void openM(String menu) throws InterruptedException {
 		System.out.println(n+b+s+a);//mona 30 rohan 20
 		System.out.println(a+b+n+s);//50 mona rohan
 		System.out.println(b+a+n+s);//50 mona rohan
+		System.out.println(b+a+n+s);//50 mona rohan
 		
 		
 	}

@@ -8,7 +8,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(features= {"src/test/resources/MyDemp.feature"}
 ,glue= {"PracticeInfo","StepDefination"}
-,tags = {"@TC01"}
+,tags = {"@TC03"}
 ,monochrome=true,plugin= {"html:target/cucumber-html-report"})
 
 
